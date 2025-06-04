@@ -8,7 +8,9 @@
      font-weight: 300;
 
      margin-top: 12px;
+     overflow-wrap: break-word;
 }
+
 .about p a {
      color: var(--link);
      text-decoration: none;
@@ -16,4 +18,14 @@
 
 .about p a:hover {
      text-decoration: underline;
+}
+
+@media (max-width: 1080px) {
+     .about {
+          padding: 24px;
+     }
+
+     .about p {
+          font-size: 14px;
+     }
 }
