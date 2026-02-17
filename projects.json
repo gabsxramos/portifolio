@@ -1,26 +1,14 @@
 [
      {
-     "name": "Projeto CHNI",
+     "name": "Project CHNI",
      "image": "./assets/chn-picture.png",
      "tags": ["C#", "Python", "API", "Broker HiveMQ", "Broker Mosquitto"],
      "link": "https://github.com/gabsxramos/Projeto-CHNI"
      },
      {
-     "name": "Projeto CHNI",
-     "image": "./assets/chn-picture.png",
-     "tags": ["C#", "Python", "API", "Broker HiveMQ", "Broker Mosquitto"],
-     "link": "https://github.com/gabsxramos/Projeto-CHNI"
-     },
-     {
-     "name": "Projeto CHNI",
-     "image": "./assets/chn-picture.png",
-     "tags": ["C#", "Python", "API", "Broker HiveMQ", "Broker Mosquitto"],
-     "link": "https://github.com/gabsxramos/Projeto-CHNI"
-     },
-     {
-     "name": "Projeto CHNI",
-     "image": "./assets/chn-picture.png",
-     "tags": ["C#", "Python", "API", "Broker HiveMQ", "Broker Mosquitto"],
-     "link": "https://github.com/gabsxramos/Projeto-CHNI"
+     "name": "Comming Soon",
+     "image": "https://png.pngtree.com/png-clipart/20220102/original/pngtree-cartoon-snail-loading-gif-dynamic-diagram-png-image_6992584.png",
+     "tags": ["?"],
+     "link": "####"
      }
 ]
